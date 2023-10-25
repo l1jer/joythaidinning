@@ -8,24 +8,16 @@
 	>
 
 <channel>
-	<title>Joy Thai - Joy Thai Restaurant</title>
+	<title>Joy Thai Restaurant</title>
 	<atom:link href="https://joythaidining.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://joythaidining.com/</link>
 	<description></description>
-	<lastBuildDate>Thu, 12 Oct 2023 12:11:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Oct 2023 07:51:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
-
-<image>
-	<url>https://joythaidining.com/wp-content/uploads/2023/10/joy-thai-logo-150x150.png</url>
-	<title>Joy Thai - Joy Thai Restaurant</title>
-	<link>https://joythaidining.com/</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 </channel>
 </rss>
