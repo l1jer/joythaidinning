@@ -12,12 +12,12 @@
 	<atom:link href="https://joythaidining.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://joythaidining.com/</link>
 	<description></description>
-	<lastBuildDate>Wed, 03 Apr 2024 00:59:31 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Apr 2024 02:33:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 </channel>
 </rss>
